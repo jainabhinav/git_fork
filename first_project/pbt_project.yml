@@ -1,11 +1,35 @@
 name: git_demo
 description: ''
 version: '0.1'
-author: null
+author: ''
 language: python
 buildSystem: wheel
-pipelines: {}
-datasets: {}
+pipelines:
+  pipelines/first_pipeline:
+    name: first_pipeline
+    description: ''
+    author: abhinav+1@simpledatalabs.com
+    mode: batch
+    language: python
+    createdAt: '2022-06-19 21:32:36'
+    datasets:
+      inputs:
+      - 7359/datasets/first_dataset
+      outputs: []
+    dependencies: {}
+datasets:
+  datasets/first_dataset:
+    name: first_dataset
+    description: ''
+    author: abhinav+1@simpledatalabs.com
+    createdAt: '2022-06-19 21:33:11'
+    physicalDatasets:
+      test_dev:
+        fabricId: 1146
+        datasetType: File
+        description: ''
+        author: abhinav+1@simpledatalabs.com
+        createdAt: '2022-06-19 21:33:11'
 templates: {}
 jobs: {}
 libraries: []
