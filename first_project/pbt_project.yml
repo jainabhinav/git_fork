@@ -1,6 +1,6 @@
 name: fork_test
 description: ''
-version: 0.0.1
+version: '0.4'
 author: abhinav+1@simpledatalabs.com
 language: python
 buildSystem: wheel
