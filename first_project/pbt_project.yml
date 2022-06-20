@@ -30,6 +30,18 @@ datasets:
         description: ''
         author: abhinav+1@simpledatalabs.com
         createdAt: '2022-06-20 11:52:37'
+  datasets/second_dataset:
+    name: second_dataset
+    description: ''
+    author: abhinav+1@simpledatalabs.com
+    createdAt: '2022-06-20 07:03:47'
+    physicalDatasets:
+      test_dev:
+        fabricId: 1146
+        datasetType: File
+        description: ''
+        author: abhinav+1@simpledatalabs.com
+        createdAt: '2022-06-20 07:03:47'
 templates: {}
 jobs: {}
 libraries: []

@@ -2,7 +2,7 @@
   "format" : "csv",
   "ignoreLeadingWhiteSpaceReading" : null,
   "multiLine" : null,
-  "path" : "dbfs:/Prophecy/abhinav+1@simpledatalabs.com/test/OrdersDatasetInput.csv",
+  "path" : "asd",
   "ignoreTrailingWhiteSpaceReading" : null,
   "maxColumns" : null,
   "writeMode" : "error",
