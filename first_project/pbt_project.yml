@@ -14,6 +14,7 @@ pipelines:
     createdAt: '2022-06-20 07:00:16'
     datasets:
       inputs:
+      - 7359/datasets/first_dataset
       - 7359/datasets/second_dataset
       outputs: []
     dependencies: {}
