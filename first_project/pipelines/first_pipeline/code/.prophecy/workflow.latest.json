@@ -64,7 +64,9 @@
         "selectedInputFields" : [ ],
         "isCustomOutputSchema" : false
       },
-      "properties" : { }
+      "properties" : {
+        "datasetId" : "7359/datasets/second_dataset"
+      }
     }
   },
   "ports" : {

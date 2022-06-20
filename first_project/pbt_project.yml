@@ -13,10 +13,23 @@ pipelines:
     language: python
     createdAt: '2022-06-20 07:00:16'
     datasets:
-      inputs: []
+      inputs:
+      - 7359/datasets/second_dataset
       outputs: []
     dependencies: {}
-datasets: {}
+datasets:
+  datasets/second_dataset:
+    name: second_dataset
+    description: ''
+    author: abhinav+1@simpledatalabs.com
+    createdAt: '2022-06-20 07:03:47'
+    physicalDatasets:
+      test_dev:
+        fabricId: 1146
+        datasetType: File
+        description: ''
+        author: abhinav+1@simpledatalabs.com
+        createdAt: '2022-06-20 07:03:47'
 templates: {}
 jobs: {}
 libraries: []
