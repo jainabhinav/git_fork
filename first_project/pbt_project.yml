@@ -18,6 +18,18 @@ pipelines:
       outputs: []
     dependencies: {}
 datasets:
+  datasets/first_dataset:
+    name: first_dataset
+    description: ''
+    author: abhinav+1@simpledatalabs.com
+    createdAt: '2022-06-19 21:33:11'
+    physicalDatasets:
+      test_dev:
+        fabricId: 1146
+        datasetType: File
+        description: ''
+        author: abhinav+1@simpledatalabs.com
+        createdAt: '2022-06-19 21:33:11'
   datasets/second_dataset:
     name: second_dataset
     description: ''
