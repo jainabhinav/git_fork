@@ -14,9 +14,16 @@ pipelines:
     createdAt: '2022-06-20 21:18:33'
     datasets:
       inputs:
-      - 7402/datasets/fourth_dataset
+      - 7359/datasets/first_dataset
       outputs: []
-    dependencies: {}
+    dependencies:
+      project/7359:
+        name: project/7359
+        projectUID: 7359
+        projectName: git_demo
+        version: git_demo/0.2
+        author: null
+        createdAt: '2022-06-20 22:03:27'
 datasets:
   datasets/fourth_dataset:
     name: fourth_dataset
