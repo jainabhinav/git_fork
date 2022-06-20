@@ -1,0 +1,24 @@
+name: second_project
+description: ''
+version: 0.0.1
+author: abhinav+1@simpledatalabs.com
+language: python
+buildSystem: wheel
+pipelines:
+  pipelines/second_pipeline:
+    name: second_pipeline
+    description: ''
+    author: abhinav+1@simpledatalabs.com
+    mode: batch
+    language: python
+    createdAt: '2022-06-20 08:51:44'
+    datasets:
+      inputs: []
+      outputs: []
+    dependencies: {}
+datasets: {}
+templates: {}
+jobs: {}
+libraries: []
+subgraphs: {}
+dependencies: '[]'
