@@ -1,6 +1,6 @@
 name: second_project
 description: ''
-version: 0.0.1
+version: '0.3'
 author: abhinav+1@simpledatalabs.com
 language: python
 buildSystem: wheel
