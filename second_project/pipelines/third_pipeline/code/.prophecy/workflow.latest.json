@@ -41,8 +41,8 @@
   },
   "connections" : [ ],
   "processes" : {
-    "_U5pl4F3gjjuF3z53Jtmb$$9o3kpgJgekcnnRmViD3-F" : {
-      "id" : "_U5pl4F3gjjuF3z53Jtmb$$9o3kpgJgekcnnRmViD3-F",
+    "AxnNzvxbs9LMVdi65O1Dc$$5LBO_oNHb0Bkowxjh1fYQ" : {
+      "id" : "AxnNzvxbs9LMVdi65O1Dc$$5LBO_oNHb0Bkowxjh1fYQ",
       "component" : "Source",
       "metadata" : {
         "label" : "Source_0",
@@ -58,15 +58,13 @@
       "ports" : {
         "inputs" : [ ],
         "outputs" : [ {
-          "id" : "9OycQTmsJDWlyPWckU1DA$$YPayuqAWXaVQYHzB8oLUK",
+          "id" : "UcXb1mJbtequNWdfKLjW4$$A0FxLFgOqsMC9tTzkCvvm",
           "slug" : "out"
         } ],
         "selectedInputFields" : [ ],
         "isCustomOutputSchema" : false
       },
-      "properties" : {
-        "datasetId" : "7359/datasets/first_dataset"
-      }
+      "properties" : { }
     }
   },
   "ports" : {
