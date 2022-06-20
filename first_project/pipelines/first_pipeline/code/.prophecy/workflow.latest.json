@@ -65,7 +65,7 @@
         "isCustomOutputSchema" : false
       },
       "properties" : {
-        "datasetId" : "7359/datasets/first_dataset"
+        "datasetId" : "7359/datasets/second_dataset"
       }
     }
   },

@@ -14,22 +14,22 @@ pipelines:
     createdAt: '2022-06-20 07:16:58'
     datasets:
       inputs:
-      - 7359/datasets/first_dataset
+      - 7359/datasets/second_dataset
       outputs: []
     dependencies: {}
 datasets:
-  datasets/first_dataset:
-    name: first_dataset
+  datasets/second_dataset:
+    name: second_dataset
     description: ''
     author: abhinav+1@simpledatalabs.com
-    createdAt: '2022-06-20 07:17:14'
+    createdAt: '2022-06-20 11:05:25'
     physicalDatasets:
       test_dev:
         fabricId: 1146
         datasetType: File
         description: ''
         author: abhinav+1@simpledatalabs.com
-        createdAt: '2022-06-20 07:17:14'
+        createdAt: '2022-06-20 11:05:25'
 templates: {}
 jobs: {}
 libraries: []
